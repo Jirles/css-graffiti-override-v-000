@@ -15,7 +15,7 @@
   display: none;
 }
 
-#wall div.parent:only-child {
+#wall .parent:nth{
   display: none;
 }
 
