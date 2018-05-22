@@ -26,8 +26,3 @@ body div#wall div.parent div:last-of-type div#tag-6 {
 body div#wall div.parent:last-of-type div > #tag-7.slick {
   display: none;
 }
-/* <div class="parent">
-      <div>
-        <div id="tag-7" class="slick"></div>
-      </div>
-      <div></div> */
