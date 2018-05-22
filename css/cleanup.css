@@ -23,12 +23,11 @@ body div#wall div.parent div:last-of-type div#tag-6 {
   display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+body div#wall div.parent:last-of-type div > #tag-7.slick {
   display: none;
 }
 /* <div class="parent">
-      <div></div>
       <div>
-        <div id="tag-6"></div>
+        <div id="tag-7" class="slick"></div>
       </div>
-    </div> */
+      <div></div> */
